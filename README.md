@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 ## 1. GitHub Stats
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=VedantMandre&show_icons=true)
