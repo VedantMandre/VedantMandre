@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Top 5 Badges That Will Take Your GitHub Repository to the Next Level
-
 ## 1. GitHub Stats
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=VedantMandre&show_icons=true)
@@ -24,10 +22,6 @@ Here are some ideas to get you started:
 ## 2. Most Used Languages
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantMandre&theme=blue-green)
-
-## 3. Contributors Badge
-
-![Your Repository's Stats](https://contrib.rocks/image?repo=VedantMandre/Python)
 
 ## 4. Random Joke Generator
 
