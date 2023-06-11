@@ -1,4 +1,4 @@
-# Read Me
+#Vedant Mandre
 
 ## About Me
 👋 Hi there! I'm Vedant, currently pursuing my Master's in Information Systems with a specialization in data science at Pace University. I have a strong passion for exploring and analyzing data to derive meaningful insights. With a background in data analysis and experience as a Data Analyst at Tata Consultancy Services, I bring a solid foundation to my current studies and projects.
