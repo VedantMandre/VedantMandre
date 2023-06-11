@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 1. GitHub Stats
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=VedantMandre&show_icons=true)
 
 ## 2. Most Used Languages
 
@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 
 ### Repository View Counter - HITS
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/VedantMandre/Python)
