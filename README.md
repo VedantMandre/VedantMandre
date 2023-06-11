@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=VedantMandre&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 1. GitHub Stats
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=VedantMandre&show_icons=true)
