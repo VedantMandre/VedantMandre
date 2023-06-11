@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 ## 2. Most Used Languages
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantMandre&theme=blue-green)
 
 ## 3. Contributors Badge
 
-![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
+![Your Repository's Stats](https://contrib.rocks/image?repo=VedantMandre/Python)
 
 ## 4. Random Joke Generator
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## 5. Profile View Counter
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
+![Profile View Counter](https://komarev.com/ghpvc/?username=VedantMandre)
 
 ### Repository View Counter - HITS
 
