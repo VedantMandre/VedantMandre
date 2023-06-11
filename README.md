@@ -16,7 +16,7 @@
 💬 Feel free to reach out to me if you have any questions or discussions regarding data analysis, data visualization, or data mining. I'm passionate about these subjects and can provide insights, share resources, or engage in meaningful conversations.
 
 ## How to Reach Me
-📫 You can reach me via email at [your email address]. If you prefer to connect professionally, you can also find me on LinkedIn at [your LinkedIn profile URL]. Don't hesitate to reach out—I'm always open to networking and engaging in data-related discussions.
+📫 You can reach me via email at vedantmandre@pace.edu. If you prefer to connect professionally, you can also find me on LinkedIn at www.linkedin.com/in/vedantmandre. Don't hesitate to reach out—I'm always open to networking and engaging in data-related discussions.
 
 ## Pronouns
 😄 My pronouns are he/him.
